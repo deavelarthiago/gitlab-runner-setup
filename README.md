@@ -30,6 +30,6 @@ Before using the provided code, consider following the best practice of managing
 
 To implement this practice efficiently, the detailed procedure was in the following project, which provides a backend configuration using S3 as an example:
 
-https://github.com/deavelarthiago/terraform-projects/tree/master/terraform-s3-backend-management
+https://github.com/deavelarthiago/terraform-s3-backend-management
 
 This process provides a solid foundation to ensure shared and protected state, preparing the environment for the safe and organized execution of other projects.
